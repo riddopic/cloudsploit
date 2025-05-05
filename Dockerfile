@@ -1,4 +1,4 @@
-FROM node:lts-alpine3.12
+FROM node:16-alpine3.12
 
 # Define a build argment that can be supplied when building the container
 # You can then do the following:
